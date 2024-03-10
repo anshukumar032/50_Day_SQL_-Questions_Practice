@@ -1,4 +1,4 @@
-/* --------------------------------------Day 2--------------------------------------------------------/*
+--------------------------------------Day 2--------------------------------------------------------
 
 Q1. Show unique birth years from patients and order them by ascending.
 
@@ -38,7 +38,7 @@ WHERE
     diagnosis = 'Dementia'
     
     
-Q5. Display every patient's first_name. Order the list by the length of each name and then by alphabetically.
+Q5. Display every patient's first_name. Order the list by the length of each name and then by alphabetically'.
 
 SELECT 
     first_name
