@@ -1,4 +1,4 @@
-/*--Day1-- /*
+--Day1-- 
 
 Q1.  Show first name, last name, and gender of patients whose gender is 'M'
 
@@ -37,7 +37,7 @@ FROM
 WHERE
     weight BETWEEN 100 AND 120
 
-Q5. Update the patients table for the allergies column. If the patient's allergies is null then replace it with 'NKA'
+Q5. Update the patients table for the allergies column. If the patients allergies is null then replace it with 'NKA'
 
 UPDATE patients 
 SET 
